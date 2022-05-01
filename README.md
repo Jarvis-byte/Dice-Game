@@ -1,6 +1,6 @@
-# Pick-Game
+# Pick and Roll
 
-<h3>This game is called as pick game.</h3>
+<h3>This game is called as Pick and Roll.</h3>
 
 <br/><br/>
 <p> Here is the <a href="https://pick-and-roll.netlify.app/">Website Link</a> .</p>
